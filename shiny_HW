@@ -1,0 +1,15 @@
+Produce a shiny app that contains at least 3 different type of inputs including an action button of some sort.  Output to the screen should include both a graph and some value computed by the code.  Your app should be published to shinyapps.io and a link uploaded here along with your .Rmd file and a screenshot of your app running.  In case you can't think of something to do, I am including a screenshot of a sample app that you can try to reproduce (perhaps without the facet ro and facet column inputs).  Grade will be determined as follows:
+
+1 pt each for 3 different input types
+
+2 pts graph 
+
+1 pt clickbutton works correctly
+
+1 numeric computation results
+
+2 code work and reacts to input changes
+
+1 published on shinyapps.io
+
+Extra credit possible if your shiny app is really shiny!!
